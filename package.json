@@ -1,0 +1,22 @@
+{
+  "name": "nasaprojdemonight",
+  "version": "1.0.0",
+  "description": "DemonightProject",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doncurt/Nasa-API_demonight.git"
+  },
+  "keywords": [
+    "nasa"
+  ],
+  "author": "Donovan Adams, Jake Tran, Andrew Tsukada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doncurt/Nasa-API_demonight/issues"
+  },
+  "homepage": "https://github.com/Doncurt/Nasa-API_demonight#readme"
+}
