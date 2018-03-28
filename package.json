@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Doncurt/Nasa-API_demonight/issues"
   },
-  "homepage": "https://github.com/Doncurt/Nasa-API_demonight#readme"
+  "homepage": "https://github.com/Doncurt/Nasa-API_demonight#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
 }
